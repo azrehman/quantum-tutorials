@@ -1,0 +1,9 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# IBMQ Token File
+token.txt
+
+# ipython
+.ipynb_checkpoints
